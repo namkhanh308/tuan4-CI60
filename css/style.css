@@ -1,0 +1,18 @@
+@import url(./input-wrapper.css);
+@import url(./register-form.css);
+@import url(./input-login.css);
+@import url(./login-form.css);
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+/* #app {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */

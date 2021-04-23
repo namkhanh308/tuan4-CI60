@@ -1,0 +1,16 @@
+.login-form .button-login {
+  text-align: center;
+  width: 100%;
+  height: 35px;
+  background-color: #4344ff;
+  border-radius: 3px;
+  border: 1px solid #4344ff;
+}
+.login-form .login-title {
+  text-align: center;
+  margin: 20px 0;
+}
+.login-form .caption {
+  text-align: center;
+  margin-bottom: 10px;
+}

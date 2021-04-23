@@ -1,0 +1,11 @@
+.input-login .main-login {
+  width: 100%;
+  height: 30px;
+  border-radius: 3px;
+  border: 1px solid #cccccc;
+  outline: none;
+  margin: 10px 0px;
+}
+.input-login .login-error {
+  color: #dd5044;
+}
